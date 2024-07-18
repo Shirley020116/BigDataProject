@@ -5,7 +5,12 @@ TA. 歷史系115 許家瑋
 Name. 黃羿寧 (Shirley), Department. 教育系113
 
 Food Map 
-- 
-https://github.com/Shirley020116/BigDataProject/blob/main/20240716.ipynb
+- First, input a location and type of stores
+- Secondly, it will use the Google Maps API to show the top five recommendations based on your request
 
-Audio to Tesxt
+URL. https://github.com/Shirley020116/BigDataProject/blob/main/20240716.ipynb
+
+Audio to Text
+- First, upload one audio file and translate into text via Whisper model
+- Secondly, Gemini will respond based on the translation provided earlier
+URL. https://github.com/Shirley020116/BigDataProject/blob/main/20240716.ipynb
